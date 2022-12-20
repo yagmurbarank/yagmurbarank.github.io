@@ -1,2 +1,2 @@
 # yagmurbarank.github.io
-https://github.com/yagmurbarank/yagmurbarank.github.io
+https://github.com/yagmurbarank.github.io
